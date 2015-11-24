@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61670782"
-     inkscape:cx="693.33912"
-     inkscape:cy="661.0189"
+     inkscape:zoom="1.6746585"
+     inkscape:cx="349.71347"
+     inkscape:cy="823.6651"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -572,7 +572,7 @@
          x="109.80111"
          y="306.4115">11.7348mm</tspan></text>
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
        id="ellipse5864"
        cx="404.89355"
        cy="163.35812"
@@ -591,7 +591,7 @@
        cy="396.73892"
        cx="531.95276"
        id="ellipse5906"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.12657237,2.12657237;stroke-opacity:1;stroke-dashoffset:0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.63229126;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 286.71726,163.35812 118.17638,0"
@@ -620,6 +620,49 @@
          sodipodi:role="line"
          id="tspan5919"
          x="324.30267"
-         y="196.20312">Use this for sphericals</tspan></text>
+         y="196.20312">Use this radius for sphericals</tspan></text>
+    <ellipse
+       ry="117.91032"
+       rx="117.91048"
+       cy="162.76099"
+       cx="357.12262"
+       id="ellipse6080"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.12657237,2.12657237;stroke-opacity:1;stroke-dashoffset:0" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.12657237,2.12657237;stroke-opacity:1;stroke-dashoffset:0"
+       id="ellipse6082"
+       cx="303.33121"
+       cy="156.76099"
+       rx="117.91048"
+       ry="117.91032" />
+    <ellipse
+       ry="117.91032"
+       rx="117.91048"
+       cy="162.13522"
+       cx="454.4068"
+       id="ellipse6084"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.53164309;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.12657237,2.12657237;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6086"
+       d="m 404.57749,163.67427 0,-118.176384"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.63229126;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g6092"
+       transform="matrix(0.54754204,0,0,0.54754204,208.37307,99.231446)">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.49606299;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 358.91412,91.547548 -26.21734,0"
+         id="path6088"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6090"
+         d="m 332.76692,91.47741 0,26.21734"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.49606299;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
