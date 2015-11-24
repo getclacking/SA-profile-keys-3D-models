@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6746585"
-     inkscape:cx="349.71347"
-     inkscape:cy="823.6651"
+     inkscape:zoom="2.0030864"
+     inkscape:cx="162"
+     inkscape:cy="602"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -664,5 +664,40 @@
          d="m 332.76692,91.47741 0,26.21734"
          style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.49606299;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.65349454;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6096"
+       cx="203.02191"
+       cy="409.66681"
+       r="2.2325335" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="207.29865"
+       y="407.60803"
+       id="text6098"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6100"
+         x="207.29865"
+         y="407.60803">r 0.7mm</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.6222502;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6102"
+       cx="189.10985"
+       cy="423.62653"
+       r="6.2874742" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="422.49197"
+       y="-184.59377"
+       id="text6104"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6106"
+         x="422.49197"
+         y="-184.59377">r 1.8625mm</tspan></text>
   </g>
 </svg>
