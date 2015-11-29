@@ -9,4 +9,4 @@ SA Row 3 1u
 
 Test render all SA R3 1u:
 
-![](alpha-test-render.png)
+![](test-render.png)
