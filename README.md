@@ -1,5 +1,15 @@
 # SA Profile Keys 3D models
 
+Complete set is availabe in SCAD format
+
+![](combined-sa-rows.png)
+
+STL and .blend will be added shortly.
+
+# Dirty sandpit stuff
+
+Just some shots of these being built...
+
 Work in progress
 ![](blender-test-rendering.png)
 
