@@ -15,9 +15,9 @@ Rows 1,2,3 as SCAD
 
 ![](SA-r1-open-scad.png)
 
-![](SA-r2-open-scad.png)
+![](SA-r2-open-scad-fix.png)
 
-![](SA-r3-open-scad.png)
+![](SA-r3-open-scad-fix.png)
 
 Row 4 is R2 flipped
 
