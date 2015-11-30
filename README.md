@@ -4,6 +4,13 @@ This repo contains a set of OpenSCAD, SVG planning drawings and a
 Blender Scene with TKL layout, to help you plan keyboard layouts and
 colorways for Signature Plastics SA profile key caps.
 
+The main files you will be interested in are:
+
+- [.blend scene](https://github.com/getclacking/SA-profile-keys-3D-models/blob/master/SA-profile-TKL-and-keys.blend)
+- [openscad CSG](https://github.com/getclacking/SA-profile-keys-3D-models/blob/master/SA%20Combined.scad)
+
+You can do funky stuff like this with the key models... (the TKL layout is already included)
+
 ![](glam-shot.png)
 
 ![](tkl-SA-fully-sculpted-r1-r2-r3-r3-r4-r4(1.25u mods)-(r3 bump 6.25space)-hq.png)
