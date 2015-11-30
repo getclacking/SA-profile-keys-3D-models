@@ -11,19 +11,6 @@ The main files you will be interested in are:
 
 You can do funky stuff like this with the key models... (the TKL layout is already included)
 
-Just a quick side note re: OpenSCAD, it's quite neat, but (despite
-notes in the manual to the contrary) it's not a functional language,
-even anonymous functions or function refs etc. are not possible, so
-the code is more copy paste than I'd like.
-
-Matt Adereth's Dactly Cave project wraps openscad in a clojure
-wrapper, but pretty much any modern language can be used to generate
-scad files better than writing them by hand.  I wish I'd taken more
-notice of Matt's warnings about the language before, however, 170
-lines of code, isn't too much trouble.  I would probably use a
-macro/templating preprocessor in any larger uses of scad.  It's a
-pretty useful tool all the same.
-
 ![](glam-shot.png)
 
 ![](tkl-SA-fully-sculpted-r1-r2-r3-r3-r4-r4(1.25u mods)-(r3 bump 6.25space)-hq.png)
@@ -83,3 +70,20 @@ Rows 1,2,3 as SCAD
 Row 4 is R2 flipped
 
 Now working on the 1.25, 1.5, 1.75, 2, 2.25 etc. keys (plus a 6.25 spacebar)
+
+### OpenSCAD - notes on the language
+
+Just a quick side note re: OpenSCAD, it's language is quite bad, and
+(despite notes in the manual to the contrary) it's not functional, no
+first class functions, even anonymous functions or function refs
+etc. are not possible, so the code is more copy paste than I'd
+normally tolerate.
+
+Matt Adereth's Dactly Cave project wraps openscad in a clojure
+wrapper, but pretty much any modern language can be used to generate
+scad files better than writing them by hand.  I wish I'd taken more
+notice of Matt's warnings about the language before, however, 170
+lines of code, isn't too much trouble.
+
+I would probably use a macro/templating preprocessor in any larger
+uses of scad.  However, despite this it's a pretty useful tool all the same.
