@@ -13,7 +13,7 @@ You can do funky stuff like this with the key models... (the TKL layout is alrea
 
 ![](glam-shot-3000-samples.png)
 
-![](tkl-SA-fully-sculpted-r1-r2-r3-r3-r4-r4(1.25u mods)-(r3 bump 6.25space)-hq.png)
+![](keyboard-render.png)
 
 You will find a complete set of keys 1u - 2.75u + 6.25u spacebars in
 all SA row profiles. (R1-R4 + R3 'bump' e.g. for spacebars etc.)
