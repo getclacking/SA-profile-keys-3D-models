@@ -11,7 +11,7 @@ The main files you will be interested in are:
 
 You can do funky stuff like this with the key models... (the TKL layout is already included)
 
-![](glam-shot.png)
+![](glam-shot-3000-samples.png)
 
 ![](tkl-SA-fully-sculpted-r1-r2-r3-r3-r4-r4(1.25u mods)-(r3 bump 6.25space)-hq.png)
 
